@@ -906,6 +906,14 @@ a:hover {
     transform: translateX(3px);
 }
 
+.project-link-coming-soon {
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: #9ca3af;
+    font-style: italic;
+    letter-spacing: 0.01em;
+}
+
 /* ============================================
    CONTACT SECTION
    Two-column layout with contact info on the
